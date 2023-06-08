@@ -1,3 +1,4 @@
 hi i hv added a line  in test2 which is testing1 branch file
 hi new line 
 this is also new line
+added new line to see merge in github
